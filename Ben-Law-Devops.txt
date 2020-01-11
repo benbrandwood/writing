@@ -5,7 +5,7 @@
 		- You build it. You Support it
 		- You build it. You Test it
 		- You build it. You Secure it.
-		- You creating a product! Do you know what it is?
+		- You are creating a product! Do you know what it is?
 	People:
 		- Fire your test team (but if you have developers who are keen on test pipeline automation great)
 		- Fire your BAs (but if you have developers who understand scenario testing languages like gherkin then great)
