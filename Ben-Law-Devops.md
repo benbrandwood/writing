@@ -28,7 +28,7 @@
 		- Separate data from compute. Decoupling is good
 
 Where's the intersection with DataOps?
-	DataOps is still a nacent and changing view of the world. For my money this is trying to place the concepts of CI/CD into a data landscape. That's hard, there's little support or acknowledgement from the vendors, there's little in the way of tooling off the shelf, but there are some concpets
+	DataOps is still a nascent and changing view of the world. For my money this is trying to place the concepts of CI/CD into a data landscape. That's hard, there's little support or acknowledgement from the vendors, there's little in the way of tooling off the shelf, but there are some concepts
 
-	- You know that BA you fired earlier? Yeah, get them back, but don't call them BA's call them "Information Catographers", or "Librarians". Agility is constrained by lack of understanding of the dataspace. The ability to pivot relies on deep, intuitive underdstanding of the information - backed up with good documentation!
+	- You know that BA you fired earlier? Yeah, get them back, but don't call them BA's call them "Information Cartographers", or "Librarians". Agility is constrained by lack of understanding of the data space. The ability to pivot relies on deep, intuitive understanding of the information - backed up with good documentation!
 	- How do we square the concept of testing with the data world - can we wrap TDD around SQL?!
