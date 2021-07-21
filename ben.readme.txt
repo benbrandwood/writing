@@ -1,0 +1,38 @@
+Ben's principles for getting stuff done.
+
+	1. People:
+		a. The team are in it for the long haul - manage accordingly. NASA sent probes to Mars while working 9-5 and no weekends. 
+		b. Boring is good, unneeded heroics should not be rewarded
+		c. Strive to be the laziest team - hyper focus on automation. Again, don't reward heroics
+		d. Always plan for the lottery win/red bus - nobody sticks around for ever
+		e. Leaders serve their teams as much, if not more, as their stakeholders
+		f. Leaders and Managers should be on-call/on-support too
+		g. If the most junior member of the team doesn't know what the Leader/Manager does then that manager shouldn't probably be there
+		h. Outsourcing does not confer competitive advantage. Offshoring even less so.
+		i. Geographically distributed teams is a very different thing to Offshoring.
+		j. Smaller teams run faster, adding new people is immensely disruptive. Scaling people up should be the last thing you do.
+	2. Delivery Types:
+		a. DevOps isn't tools it's culture. For me that culture is "You build it, you own it, you run it"
+		b. If you don't want to "run it" then build and own the process and org that does (and understand the disadvantage)
+		c. Agile isn't tools, it's culture
+		d. The further a process moves away from the original Agile Manifesto, the worse it is. 
+		e. Pretty much the only metric that matters is "business value delivered", all the others like velocity, cycle time etc are either made up, or just "business value" with extra steps. Focus on what matters.
+		f. Writing down a list of things to do, ordering them in usefulness and then going top to bottom is highly underrated (simple Kanban)
+		g. Paying down technical debt and fixing the plumbing has business value too. Plan for it.
+		h. Scrum master isn't a real job
+	3. Stakeholder Management:
+		a. It's better to get a working bare-bones out in a week than talk about a full product for two. (Editing is easier than creation)
+		b. You are only as good as your last delivery
+		c. People are very forgiving when a process is transparent. Remember they have their own projects and things which are hard, late, more complex than they expected.
+		d. People need to say "no" more often. Technology and "the business" should be peers.
+	4. Data:
+		a. The default position should be that all data should be open to everyone and then work from there
+		b. People do horrible things with data on laptops and spreadsheets. Just centralising bad practices is a considerable win - because now we can see it
+		c. Reading and Writing SQL is a competitive advantage. A surprising number of data scientists and analysts can't
+	5. Misc:
+		a. The most important books I've read are The Phoenix Project and The Unicorn Project.
+		b. Multi-Cloud strategies are like constantly swapping two SIM cards into one phone, the process will always bottleneck.
+		c. Portability (of code, environments, frameworks etc) has its own intrinsic value which cannot be overstated.
+		d. When people say "real-time" they often mean a period of time between "every week" and "sub second"
+	
+	
