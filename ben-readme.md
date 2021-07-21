@@ -36,3 +36,5 @@
   - Portability (of code, environments, frameworks etc) has its own intrinsic value which cannot be overstated.
   - When people say "real-time" they often mean a period of time between "every week" and "sub second"
   - Performance is an (almost) fixed problem, planning for cost less so.
+  - Testing is hard and most test teams are bad at it. It's not an execution process, its a code and evangelism process
+  - Infosec is hard and most infosec teams are bad at it. Infosec is about enablement not gatekeeping 
