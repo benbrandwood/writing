@@ -17,7 +17,7 @@
   - DevOps isn't tools it's culture. For me that culture is "You build it, you own it, you run it"
   - If you don't want to "run it" then build and own the process and org that does (and understand the disadvantage)
   - Agile isn't tools, it's culture
-  - The further a process moves away from the original Agile Manifesto, the worse it is
+  - The further a process moves away from the original Agile Manifesto, the worse it is (https://agilemanifesto.org/)
   - Pretty much the only metric that matters is "business value delivered", all the others like velocity, cycle time etc are either made up, or just "business value" with extra steps. Focus on what matters
   - Writing down a list of things to do, ordering them in usefulness and then going top to bottom is highly underrated (simple Kanban)
   - Paying down technical debt and fixing the plumbing has business value too. Plan for it
