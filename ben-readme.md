@@ -22,6 +22,7 @@
   - Writing down a list of things to do, ordering them in usefulness and then going top to bottom is highly underrated (simple Kanban)
   - Paying down technical debt and fixing the plumbing has business value too. Plan for it
   - Scrum master isn't a real job
+  - More expanded view on Agile here (https://raw.githubusercontent.com/benbrandwood/writing/master/Crash%20course%20into%20agile%20thinking.pdf)
 
 - Stakeholder Management:
   - It's better to get a working bare-bones out in a week than talk about a full product for two. (Editing is easier than creation)
