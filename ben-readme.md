@@ -1,4 +1,4 @@
-*Ben's principles for getting stuff done.*
+## *Ben's principles for getting stuff done.*
 
 - People:
   - The team are in it for the long haul - manage accordingly. NASA sent probes to Mars while working 9-5 and no weekends. 
