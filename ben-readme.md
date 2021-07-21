@@ -35,3 +35,4 @@
   - Multi-Cloud strategies are like constantly swapping two SIM cards into one phone, the process will always bottleneck.
   - Portability (of code, environments, frameworks etc) has its own intrinsic value which cannot be overstated.
   - When people say "real-time" they often mean a period of time between "every week" and "sub second"
+  - Performance is an (almost) fixed problem, planning for cost less so.
